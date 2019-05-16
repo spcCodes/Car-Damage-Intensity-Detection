@@ -1,0 +1,8 @@
+Rank-1: 69.05%/nRank-5: 100.00%/n/n             precision    recall  f1-score   support
+
+          0       0.78      0.60      0.68        83
+          1       0.60      0.57      0.59        96
+          2       0.70      0.84      0.77       115
+
+avg / total       0.69      0.69      0.68       294
+/n

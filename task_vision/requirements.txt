@@ -1,0 +1,12 @@
+All the packages/libraries used
+
+
+Theano or TensorFlow
+Keras
+NumPy
+scikit-learn
+matplotlib
+seaborn
+h5py
+Opencv
+mahotas
