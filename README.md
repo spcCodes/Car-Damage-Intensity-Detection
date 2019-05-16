@@ -15,6 +15,8 @@ Using Convolutional Neural Networks (CNN).
 APPROACH 3: 
 Using PreTrained models approach (best one)
 
+For detailed description of the methods used, please refer to the pdf attached with the project
+
 
 Conclusion:
 This experiments actually concludes that Pretrained model for CNNs performs better than the conventional feature extraction techniques for any type of complex classification task and also reduce the time consumed to construct a deep neural net from scratch.
